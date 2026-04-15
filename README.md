@@ -74,9 +74,8 @@
 
 ---
 
-<p align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Term1nat000r&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Term1nat000r&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117)
-
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Term1nat000r/Term1nat000r/blob/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Term1nat000r/Term1nat000r/blob/output/github-snake.svg" />
+  <img alt="snake animation" src="https://github.com/Term1nat000r/Term1nat000r/blob/output/github-snake.svg" />
+</picture>
