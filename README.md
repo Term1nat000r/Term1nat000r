@@ -74,4 +74,3 @@
 
 ---
 
-<![snake animation](https://raw.githubusercontent.com/Term1nat000r/Term1nat000r/output/github-snake-dark.svg)
