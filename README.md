@@ -1,6 +1,6 @@
 # `Nikita Samodurov / Term1nat000r`
 
-[![Telegram](https://img.shields.io/badge/Telegram-@term1nat000r-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/term1nat000r)
+[![Telegram](https://img.shields.io/badge/Telegram-@term1nat000r-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Professional_228)
 
 ---
 
