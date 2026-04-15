@@ -12,8 +12,8 @@
 
 | Year | Competition | Result |
 |:----:|-------------|--------|
-| 2026 | **True Tech Hack (MTS)** — LocalScript: автономная агентная система генерации Lua-кода | 🏆 Участник |
-| 2026 | **AI Wellness Quest (Sber)** — продуктовый хакатон | 🥇 **4-е место** из 16 команд |
+| 2026 | **True Tech Hack (MTS)** — LocalScript: autonomous agent system for Lua code generation | 🏆 Participant |
+| 2026 | **AI Wellness Quest (Sber)** — product hackathon | 🥇 **4th place** out of 16 teams |
 
 ## Stack
 
@@ -21,9 +21,10 @@
 <tr>
 <td align="center" valign="top">
 
-**ML / Data**
+**ML / Data & Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
@@ -56,21 +57,20 @@
 
 ## Projects
 
-[**MTS-True-Tech-Hack**](https://github.com/Term1nat000r/MTS-True-Tech-Hack)  ·  Автономная агентная система генерации Lua-кода · True Tech Hack 2026
+[**MTS-True-Tech-Hack**](https://github.com/Term1nat000r/MTS-True-Tech-Hack)  ·  Autonomous agent system for Lua code generation · True Tech Hack 2026
 
-> ReAct loop · Qwen2.5-Coder-7B · локальная валидация lua/luacheck · без внешних API
+> ReAct loop · Qwen2.5-Coder-7B · local lua/luacheck validation · no external APIs
 
-[**AI-Wellness-Quest**](https://github.com/Term1nat000r/AI-Wellness-Quest)  ·  AI Wellness Quest · Хакатон Сбера
+[**AI-Wellness-Quest**](https://github.com/Term1nat000r/AI-Wellness-Quest)  ·  AI Wellness Quest · Sber Hackathon
 
-> Продуктовый хакатон · 4-е место из 16 команд · Март 2026
+> Product hackathon · 4th place out of 16 teams · March 2026
 
-[**Article-Generator**](https://github.com/Term1nat000r)  ·  Мульти-агентная система генерации статей для Яндекс Дзен
+[**Article-Generator**](https://github.com/Term1nat000r)  ·  Multi-agent system for generating articles for Yandex Dzen
 
-> 5 агентов (Researcher → Planner → Writer → Editor → Formatter) · Groq API · llama-3.3-70b
+> 5 agents (Researcher → Planner → Writer → Editor → Formatter) · Groq API · llama-3.3-70b
 
-[**study**](https://github.com/Term1nat000r/study)  ·  Конспекты и учебные материалы
+[**study**](https://github.com/Term1nat000r/study)  ·  Notes and study materials
 
-> МИРЭА БФБО-02-25 · Python · линейная алгебра · мат. моделирование · БД
+> MIREA BFBO-02-25 · Python · linear algebra · math modeling · databases
 
 ---
-
