@@ -12,8 +12,8 @@
 
 | Year | Competition | Result |
 |:----:|-------------|--------|
-| 2026 | **True Tech Hack (MTS)** — LocalScript: autonomous agent system for Lua code generation | 🏆 Participant |
-| 2026 | **AI Wellness Quest (Sber)** — product hackathon | 🥇 **4th place** out of 16 teams |
+| 2026 | **True Tech Hack (MTS)** — LocalScript: local agent system for Lua code generation | 🏆 Participant |
+| 2026 | **AI Wellness Quest (Sber)** — product hackathon |  **4th place** out of 16 teams |
 
 ## Stack
 
@@ -57,7 +57,7 @@
 
 ## Projects
 
-[**MTS-True-Tech-Hack**](https://github.com/Term1nat000r/MTS-True-Tech-Hack)  ·  Autonomous agent system for Lua code generation · True Tech Hack 2026
+[**MTS-True-Tech-Hack**](https://github.com/Term1nat000r/MTS-True-Tech-Hack)  ·  Local agent system for Lua code generation · True Tech Hack 2026
 
 > ReAct loop · Qwen2.5-Coder-7B · local lua/luacheck validation · no external APIs
 
@@ -71,6 +71,6 @@
 
 [**study**](https://github.com/Term1nat000r/study)  ·  Notes and study materials
 
-> MIREA BFBO-02-25 · Python · linear algebra · math modeling · databases
+> Algorithms · GenAI · Python · Computer networks · OOP
 
 ---
