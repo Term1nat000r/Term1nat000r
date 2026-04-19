@@ -6,7 +6,6 @@
   <a href="https://t.me/Professional_228"><img src="https://img.shields.io/badge/Telegram-@Professional__228-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
   <a href="https://github.com/Term1nat000r/Term1nat000r/blob/main/resume.pdf"><img src="https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume" /></a>
 </p>
----
 
 ## Achievements
 
