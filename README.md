@@ -12,7 +12,7 @@
 
 | Year | Competition | Result |
 |:----:|-------------|--------|
-| 2026 | **True Tech Hack (MTS)** — LocalScript: local agent system for Lua code generation | 🏆 Participant |
+| 2026 | **True Tech Hack (MTS)** — LocalScript: local agent system for Lua code generation | Participant |
 | 2026 | **AI Wellness Quest (Sber)** — product hackathon |  **4th place** out of 16 teams |
 
 ## Stack
